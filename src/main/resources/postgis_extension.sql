@@ -1,0 +1,1 @@
+CREATE EXTENSION IF NOT EXISTS postgis;  -- Enable PostGIS (includes raster)

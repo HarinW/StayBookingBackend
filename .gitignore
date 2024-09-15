@@ -1,0 +1,5 @@
+/.gradle/
+/build/
+/src/main/resources/application.yml
+/src/main/resources/credentials.json
+/docker-compose.yml

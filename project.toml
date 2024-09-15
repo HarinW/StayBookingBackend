@@ -1,0 +1,4 @@
+# similar to .yml file, requested by Google Cloud
+[[build.env]]
+name = "GOOGLE_RUNTIME_VERSION"
+value = "17"
